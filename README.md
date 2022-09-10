@@ -22,19 +22,76 @@
 首先进入美国 Apple ID 注册页面，复制下方网址至 Safari 浏览器中打开即可进入。
 https://appleid.apple.com/account 
 具体注册方法如下长图，跟着我的步骤走就行了，一定要严格按照我写的要求操作。
-![图片名称](https://raw.githubusercontent.com/15872406732/register/main/img/0.png)  <br>
-这里给大家提供一个[谷歌访问助手](https://github.com/15872406732/-GoogleHelper)插件，可以直接访问谷歌，如果不行，就只能自己去找梯子啦~ <br>
-### 2.然后点击右上角的设置进行如下操作<br>
-![图片名称](https://raw.githubusercontent.com/15872406732/register/main/img/1.png)  <br>
-![图片名称](https://raw.githubusercontent.com/15872406732/register/main/img/2.png) <br>
-### 如果看不惯外语可以右击翻译**<br>
-![图片名称](https://raw.githubusercontent.com/15872406732/register/main/img/3.png) <br>
-![图片名称](https://raw.githubusercontent.com/15872406732/register/main/img/4.png) <br>
-### 返回注册页面<br>
-![图片名称](https://raw.githubusercontent.com/15872406732/register/main/img/5.png) <br>
-### 此时手机号就可以正常接到验证码了<br>
-![图片名称](https://raw.githubusercontent.com/15872406732/register/main/img/6.png) <br>
-//这里具有随机性<br>
-### 如果有可以用邮箱注册的选项，尽量用qq邮箱注册<br>
-![图片名称](https://raw.githubusercontent.com/15872406732/register/main/img/7.png) <br>
+![图片名称](https://raw.githubusercontent.com/3038871934/apple_id_register/main/img/0.jpg)  <br>
+接着需要对电子邮件/手机号码进行验证。把收到的验证码输入进去，依次点击下一步就行了。
+![图片名称](https://raw.githubusercontent.com/3038871934/apple_id_register/main/img/1.jpg)  <br>
+注册成功后，账号会自动登录，如果没登录的话重新登录一遍刚注册的账号即可。
+
+接着点击退出登录左边的“箭头”然后点击付款方式，接着再点击添加付款方式。
+![图片名称](https://raw.githubusercontent.com/3038871934/apple_id_register/main/img/2.jpg) <br>
+下一步是填写付款方式&账单地址，这步很关键，需要借助美国地址生成器，它会自动帮你生成街道地址、城市、邮编、电话号码等信息。
+
+生成地址前，建议选以下五个免税州：蒙大拿州（Montana）俄勒冈州（Oregon）
+
+阿拉斯加州（Alaska）
+
+特拉华州（Delaware）
+
+新罕布什尔州（New Hampshire）
+三个美国地址生成器（点这里获取）
+下图中标注的由美国地址生成器生成的内容，直接复制美国地址生成器中生成的内容即可。
+
+![图片名称](https://raw.githubusercontent.com/3038871934/apple_id_register/main/img/3.jpg) <br>
+接着勾选拷贝账单寄送地址，最后点击更新就行了。
+![图片名称](https://raw.githubusercontent.com/3038871934/apple_id_register/main/img/4.jpg) <br>
+到这里我们的美区 Apple ID 就注册完成了！下面教大家如何登录。
+### 三、登录美区ID<br>
+打开 App Store，首先退出当前账号。点击右上角的头像，然后拉到末尾，点击退出登录即可。
+![图片名称](https://raw.githubusercontent.com/3038871934/apple_id_register/main/img/5.jpg) <br>
+接着再次点击 App Store 中右上角的头像，输入前面注册的美区账号&密码，点击登录即可。
+![图片名称](https://raw.githubusercontent.com/3038871934/apple_id_register/main/img/6.jpg) <br>
+然后会跳出一个弹窗，选择检查即可，接着打开同意条款与条件，选择下一页。
+![图片名称](https://raw.githubusercontent.com/3038871934/apple_id_register/main/img/7.jpg) <br>
+不要修改任何内容，直接点击下一页，然后点击继续。
+![图片名称](https://raw.githubusercontent.com/3038871934/apple_id_register/main/img/8.jpg) <br>
+点击Continue，到这里我们的美区 Apple ID 就已经成功登录了。
+![图片名称](https://raw.githubusercontent.com/3038871934/apple_id_register/main/img/9.jpg) <br>
+注册登录成功后，我们就能下载美区中的各种 App 了。
+![图片名称](https://raw.githubusercontent.com/3038871934/apple_id_register/main/img/10.jpg) <br>
+
+### 四、一些需要注意的地方<br>
+1.设置密码时，密码中不要包含前面填写的名字、生日、邮箱中的任何信息，否则可能会卡在验证码那一步，总之就是密码尽量原创一个。
+
+2.不要在「设置」中登录美区Apple ID，以免造成不必要的麻烦。下载美区 App 只需在 App Store 中登录即可，下载完后再换回国区账号即可，对 iCloud 等不会有任何影响。
+
+3.如果你有在用Apple Music，切换成美区后会导致已下载的歌曲全被清空。
+
+4.建议不要把美区 Apple ID 当成主力账号，需要下美区应用时登录就行了，以免出现啥问题。
+### 五、常见问题汇总<br>
+➊ 手机号码提示错误怎么解决？
+
+答：看看复制的号码是不是开头有数字"1"或者"+1"，有的话去掉即可。
+
+➋ 更新 App 的时候显示账号被锁定，但可以下载未下载过的 App 是什么原因？
+
+答：因为你更新的这个 App 之前是用其他 Apple ID 下载的，所以这个 App 是和你之前下载时的那个 Apple ID 绑定在一起的，所以出现被锁定的提示是原先账号出了问题，和当前账号没关系。解决方法很简单，把 App 卸载重新安装即可。
+
+➌ 邮编错误怎么办？
+
+答：估计是地址生成器网站数据库中的部分邮编有误，多生成几份地址试试即可。
+
+➍ Your request could not be completed at this time 怎么办？
+
+答：应该是地址生成器生成的号码有问题，电话是 xxx-xxx-xxx 的正常，而 +1xxx-xxx-xxx 就不行。解决方法就是去掉号码开头的"1"或者"+1"即可。
+
+➎ Cannot be created at this time 怎么办？
+
+答：切换成 4G、5G、或者换个浏览器、或者用电脑注册，或者次日再试试。
+
+➏ 注册成功后，如何二次修改美区 Apple ID 的地址、姓名等信息？
+
+答：进入美国苹果官网，拉到底部找到 manage your apple id，登录后即可修改，不懂英文的同学可借助翻译。
+
+如果以上回答仍然无法解决你的问题，那建议用百度、必应、知乎等搜索工具去寻找解决方法。
+
 **如果大家嫌麻烦可以加qq3038871934购买，价格真的实惠！！！**<br>
