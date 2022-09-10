@@ -19,8 +19,8 @@
 ### 二、注册教程<br>
 为了方便大家注册，该方法全程都在手机中操作，不用借助电脑。
 
-首先进入美国 Apple ID 注册页面，复制下方网址至 Safari 浏览器中打开即可进入。
-https://appleid.apple.com/account 
+首先进入美国 Apple ID 注册页面，复制下方网址至 Safari 浏览器中打开即可进入。<br>
+https://appleid.apple.com/account <br>
 具体注册方法如下长图，跟着我的步骤走就行了，一定要严格按照我写的要求操作。
 ![图片名称](https://raw.githubusercontent.com/3038871934/apple_id_register/main/img/0.jpg)  <br>
 接着需要对电子邮件/手机号码进行验证。把收到的验证码输入进去，依次点击下一步就行了。
