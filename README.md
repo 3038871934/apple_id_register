@@ -38,7 +38,7 @@ https://appleid.apple.com/account <br>
 特拉华州（Delaware）
 
 新罕布什尔州（New Hampshire）<br>
-**三个美国地址生成器（点这里获取）**<br>
+**[美国地址生成器](https://www.meiguodizhi.com/)  **<br>
 下图中标注的由美国地址生成器生成的内容，直接复制美国地址生成器中生成的内容即可。
 
 ![图片名称](https://raw.githubusercontent.com/3038871934/apple_id_register/main/img/3.jpg) <br>
@@ -94,4 +94,5 @@ https://appleid.apple.com/account <br>
 
 如果以上回答仍然无法解决你的问题，那建议用百度、必应、知乎等搜索工具去寻找解决方法。
 
+<br>
 **如果大家嫌麻烦可以加qq3038871934购买，价格真的实惠！！！**<br>
