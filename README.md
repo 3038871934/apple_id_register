@@ -5,7 +5,8 @@
 
 话不多说，教程开始，只要跟着我的步骤走，百分百能成功。<br>
 <br>
-（如果下面图片打不开，可以点击[苹果id教程](https://github.com/3038871934/apple_id_register/archive/refs/heads/main.zip)下载文件到电脑，点击apple_id.html打开教程）<br>
+<br>
+(如果下面图片打不开，可以点击[苹果id教程](https://github.com/3038871934/apple_id_register/archive/refs/heads/main.zip)下载文件到电脑，点击apple_id.html打开教程）<br>
 ### 一、准备工作<br>
 1.一个能接收短信的国内手机号2.一个全新邮箱（指从没注册过Apple ID的邮箱）3.美国地址生成器（后面我会给大家提供）4.无需任何代理工具<br>
 **注意以下四点可以避免很多问题：**<br>
